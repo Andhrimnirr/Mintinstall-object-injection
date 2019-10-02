@@ -52,6 +52,7 @@
 ![](imgs/20190927-113447.png)
 
 [TR] Bu durumda eğer dosya unserialize edilmeye çalışılırsa zararlı kodumuz çalışacaktır.
+
 [EN] If you attempt to unserialize the file, our malicious code will work.
 
 	cos 
