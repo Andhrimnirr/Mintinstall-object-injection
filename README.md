@@ -1,1 +1,0 @@
-# Mintinstall-object-injection
