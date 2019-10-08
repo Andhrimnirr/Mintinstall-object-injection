@@ -1,6 +1,6 @@
-[TR] Linux mint yazılım yöneticisi (v 7.9.9) yanlış yapılandırmadan dolayı obje enjeksiyonu ve keyfi kod çalıştırmamıza neden olmaktadır.
+[TR] Linux mint yazılım yöneticisi (v 7.9.5/9) yanlış yapılandırmadan dolayı obje enjeksiyonu ve keyfi kod çalıştırmamıza neden olmaktadır.
 
-[EN] Linux mint software manager (v 7.9.9) causes us to execute object injection and arbitrary code due to incorrect configuration
+[EN] Linux mint software manager (v 7.9.5/9) causes us to execute object injection and arbitrary code due to incorrect configuration
 
 
 	mintinsall
